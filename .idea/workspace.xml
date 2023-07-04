@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba342b8-8329-4b40-98f6-26571cb46776" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/live/therb/Integration/CreateUpdateAndDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/live/therb/Models/Auth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/live/therb/Models/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/live/therb/Models/BookingDates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/live/therb/Unit/CRUDTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="7ba342b8-8329-4b40-98f6-26571cb46776" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
